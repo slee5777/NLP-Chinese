@@ -1,2 +1,2 @@
-# NLP-Chinese-Su_Shi
-NLP Generative Model in Chinese.  Based on poetry Su Shi (蘇軾) collections. 
+# NLP-Chinese: Generative Models
+lesson6-rnn-chinese-sushi.html Based on poetry Su Shi (蘇軾) collections. 
